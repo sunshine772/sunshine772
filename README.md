@@ -54,6 +54,8 @@ With 6+ years across the stack, I like the seam where **software meets automatio
 
 ### 📫 Connect
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-5eead4?style=flat-square&logo=googlechrome&logoColor=black)](https://sunshine772.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-guzman/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ernstrockdev@gmail.com)
 ![Location](https://img.shields.io/badge/-Bolivia%20·%20Remote-4CAF50?style=flat-square&logo=googlemaps&logoColor=white)
 
